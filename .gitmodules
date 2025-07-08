@@ -1,0 +1,6 @@
+[submodule "of8"]
+	path = of8
+	url = https://github.com/ZmengXu/PLOGArrheniusReactions
+[submodule "of10"]
+	path = of10
+	url = https://github.com/yuchenzh/plogOF10

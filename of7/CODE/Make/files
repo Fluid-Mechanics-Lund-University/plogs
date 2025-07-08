@@ -1,0 +1,4 @@
+makeReactions.C
+
+
+LIB = $(FOAM_USER_LIBBIN)/libPLOG
