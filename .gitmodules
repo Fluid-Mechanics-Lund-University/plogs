@@ -4,3 +4,9 @@
 [submodule "of10"]
 	path = of10
 	url = https://github.com/yuchenzh/plogOF10
+[submodule "OpenFOAM-8"]
+	path = OpenFOAM-8
+	url = https://github.com/ZmengXu/PLOGArrheniusReactions
+[submodule "OpenFOAM-10-11"]
+	path = OpenFOAM-10-11
+	url = https://github.com/yuchenzh/plogOF10

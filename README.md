@@ -2,10 +2,18 @@
 [![OpenFOAM version](https://img.shields.io/badge/OpenFOAM-8-brightgreen)](https://github.com/OpenFOAM/OpenFOAM-8)
 [![OpenFOAM version](https://img.shields.io/badge/OpenFOAM-9-brightgreen)](https://github.com/OpenFOAM/OpenFOAM-9)
 [![OpenFOAM version](https://img.shields.io/badge/OpenFOAM-10-brightgreen)](https://github.com/OpenFOAM/OpenFOAM-10)
-### Note: support for OpenFOAM-11/12/13 is on the way
+[![OpenFOAM version](https://img.shields.io/badge/OpenFOAM-11-brightgreen)](https://github.com/OpenFOAM/OpenFOAM-11)
+[![OpenFOAM version](https://img.shields.io/badge/OpenFOAM-12-brightgreen)](https://github.com/OpenFOAM/OpenFOAM-12)
+[![OpenFOAM version](https://img.shields.io/badge/OpenFOAM-13-brightgreen)](https://github.com/OpenFOAM/OpenFOAM-13)
+
+
 
 # PLOGArrheniusReactions
-A library for OpenFOAM to handel the `PLOG` keywords in reactions. This has been reported but [has not yet been solved](https://bugs.openfoam.org/view.php?id=3523).
+A library for OpenFOAM to handel the `PLOG` keywords in reactions. 
+
+Support has been added from OpenFOAM-7 to the latest OpenFOAM-13.
+
+This has been reported but [has not yet been solved](https://bugs.openfoam.org/view.php?id=3523).
 
 > For more information, please refer to the [defination of PLOG](http://engine.princeton.edu/modelreduction/PLOG-documents/PLOG-software_distribution.pdf), and also the `Troe` keyword in the OpenFOAM [source code](https://github.com/OpenFOAM/OpenFOAM-8/blob/master/src/thermophysicalModels/specie/reaction/reactionRate/fallOffFunctions/TroeFallOffFunction/TroeFallOffFunction.H).
 
