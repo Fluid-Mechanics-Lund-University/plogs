@@ -7,6 +7,6 @@
 [submodule "OpenFOAM-8"]
 	path = OpenFOAM-8
 	url = https://github.com/ZmengXu/PLOGArrheniusReactions
-[submodule "OpenFOAM-10-11"]
-	path = OpenFOAM-10-11
+[submodule "OpenFOAM-10"]
+	path = OpenFOAM-10
 	url = https://github.com/yuchenzh/plogOF10
