@@ -5,13 +5,17 @@
 [![OpenFOAM version](https://img.shields.io/badge/OpenFOAM-11-brightgreen)](https://github.com/OpenFOAM/OpenFOAM-11)
 [![OpenFOAM version](https://img.shields.io/badge/OpenFOAM-12-brightgreen)](https://github.com/OpenFOAM/OpenFOAM-12)
 [![OpenFOAM version](https://img.shields.io/badge/OpenFOAM-13-brightgreen)](https://github.com/OpenFOAM/OpenFOAM-13)
-
+[![OpenFOAM](https://img.shields.io/badge/OpenFOAM-v2112-blue)](https://www.openfoam.com/news/main-news/openfoam-v2112)
+[![OpenFOAM](https://img.shields.io/badge/OpenFOAM-v2506-blue)](https://www.openfoam.com/news/main-news/openfoam-v2506)
 
 
 # PLOGArrheniusReactions
 A library for OpenFOAM to handel the `PLOG` keywords in reactions. 
 
 Support has been added from OpenFOAM-7 to the latest OpenFOAM-13.
+
+Support has been added to some ESI versions. We have tested OpenFOAM-v2112 and OpenFOAM-v2506, and a test case is provided.
+A user might expect this code to function normally for all ESI versions between v2112 and v2506.
 
 This has been reported but [has not yet been solved](https://bugs.openfoam.org/view.php?id=3523).
 
