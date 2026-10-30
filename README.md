@@ -5,7 +5,7 @@
 [![OpenFOAM version](https://img.shields.io/badge/OpenFOAM-11-brightgreen)](https://github.com/OpenFOAM/OpenFOAM-11)
 [![OpenFOAM version](https://img.shields.io/badge/OpenFOAM-12-brightgreen)](https://github.com/OpenFOAM/OpenFOAM-12)
 [![OpenFOAM version](https://img.shields.io/badge/OpenFOAM-13-brightgreen)](https://github.com/OpenFOAM/OpenFOAM-13)
-[![OpenFOAM version](https://img.shields.io/badge/OpenFOAM-13-brightgreen)](https://github.com/OpenFOAM/OpenFOAM-14)
+[![OpenFOAM version](https://img.shields.io/badge/OpenFOAM-14-brightgreen)](https://github.com/OpenFOAM/OpenFOAM-14)
 [![OpenFOAM](https://img.shields.io/badge/OpenFOAM-v2112-blue)](https://www.openfoam.com/news/main-news/openfoam-v2112)
 [![OpenFOAM](https://img.shields.io/badge/OpenFOAM-v2506-blue)](https://www.openfoam.com/news/main-news/openfoam-v2506)
 
